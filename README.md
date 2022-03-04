@@ -1,9 +1,5 @@
 # COMP20008 2021 Semester 1 Assignment 1
 
-## student information
-
-Student name: Yihang Liu
-Student ID: 1061578
 
 ## programming language
 
